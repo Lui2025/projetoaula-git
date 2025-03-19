@@ -1,2 +1,13 @@
-# projetoaula-git
+# Apresentação
 trabalhando com a ferramenta de versionamento
+
+## Objetivo
+
+Apresentar as principais funcionalidades da plataforma github
+
+## Funcionalidades
+
+* Item 1
+* Item 2
+* Item 3
+
